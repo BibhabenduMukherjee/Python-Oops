@@ -1,0 +1,19 @@
+
+
+####### main.py contains all information about class and object 
+
+####### main_c is contains some extra information 
+
+
+
+Encapsulation is one of the fundamentals of OOP (object-oriented programming). It refers to the bundling of data with the methods that operate on that data. Encapsulation is used to hide the values or state of a structured data object inside a class, preventing unauthorized parties' direct access to them. (form google)
+
+MY Word - >> it's a process of hidding(restriction) information of a  specific field(may be some class) for a set users or developer 
+
+suppose a situation where you want to develop a simple game and-->
+-- > you have 10 developers and other worker 
+--> no 1 2 and 3 developers are worked together to implement a function that responsible for "walk a gamePlayer" 
+--> no 4,5 is for creating a "sit a player" 
+
+-> Here encapsulation helps to restrict the movement of no 4 , 5 developers to change  any thing on "walk a gamePlayer" function
+   They have the access to the "walk a gamePlayer" function but they only use it not more that that
